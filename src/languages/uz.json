@@ -1,0 +1,30 @@
+{
+    "registratsiya": "Registratsiya",
+    "ariza": "Ariza",
+    "ism": "Ism",
+    "pasport_seria": "Pasport seria",
+    "fakultet": "Fakultetni tanlang",
+    "talim_yonalishi": "Ta'lim yo'nalishini tanlang",
+    "rasm": "  3x4 rasmingiz",
+    "yuborish": "Yuborish",
+    "familiya": "Familiya",
+    "pasport_nomer": "Pasport raqam",
+    "talim_shakli": "Ta'lim shaklini tanlang",
+    "pasport_fayl": "Pasport faylini tanlang",
+    "sharif": "Sharif",
+    "gender": "Jinsingiz",
+    "talim_darajasi": "Ta'lim darajasini tanlang",
+    "diplom_file": "Sertifikat yoki diplom",
+    
+    
+    "filologiya":"Filologiya",
+    "tabiiy_fanlar":"Tabiy fanlar",
+    "aniq_fanlar":"Aniq fanlar",
+    "kunduz":"Kunduzgi",
+    "kechki":"Kechki",
+    "sirtqi":"Sirtqi",
+    "erkak":"Erkak",
+    "ayol":"Ayol",
+    "bakalavr":"Bakalavr",
+    "magistr":"Magistr"
+}
